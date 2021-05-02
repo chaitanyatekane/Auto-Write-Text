@@ -1,7 +1,10 @@
+# Auto-Write-Text (Basic-Project)
+
+
 Live Demo :- https://chaitanyatekane.github.io/Auto-Write-Text/
 
 
-# Auto-Write-Text![Screenshot (68)](https://user-images.githubusercontent.com/71593995/116802196-b21ca880-ab2e-11eb-98e0-3bd46595dcdd.png)
+https://user-images.githubusercontent.com/71593995/116802407-05dbc180-ab30-11eb-8092-6228af8e78b2.mp4
 
 
 Happy Coding!!
