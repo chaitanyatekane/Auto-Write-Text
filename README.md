@@ -1,14 +1,15 @@
-# Auto-Write-Text (Basic-Project)
+## Project Title
+Auto-Write-Text
 
+## Tech Stack Used 
+HTML, CSS & Modern-JavaScript
 
-Live Demo :- https://chaitanyatekane.github.io/Auto-Write-Text/
+## Screenshot
+![Screenshot (68)](https://user-images.githubusercontent.com/71593995/116815032-4e6b9d00-ab79-11eb-83ca-f231260a257c.png)
 
+## For Live Demo
+Click Here :- https://user-images.githubusercontent.com/71593995/116815037-562b4180-ab79-11eb-9841-95372431b6d9.mp4
 
-## Tech Stack Used :- HTML, CSS & Modern-JavaScript
-
-
-https://user-images.githubusercontent.com/71593995/116802437-4f2c1100-ab30-11eb-93fd-ba6c8044bb34.mp4
-
-
-Happy Coding!!
-© Tekane Chaitanya
+## License
+Happy Coding!! 
+© [chaitanyatekane]()
